@@ -28,7 +28,4 @@ Para executar o código, siga as etapas abaixo:
 
 4. Observe a saída no console, que exibirá o nome e a nota no IMDB de cada item de vídeo.
 
-Sinta-se à vontade para explorar e modificar o código de acordo com suas necessidades.
-
-**Observação:** Certifique-se de ter as permissões necessárias para acesso aos vídeos e verifique a documentação oficial da linguagem Java para obter mais informações sobre os conceitos utilizados no código.
 
